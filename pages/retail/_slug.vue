@@ -161,6 +161,13 @@
                         </td>
                     </tr>
 
+                    <!-- Spacer: prevents signature collapse in Outlook reply chains -->
+                    <tr>
+                      <td width="390" height="16" style="font-size:0; line-height:0; padding:0; height:16px;">
+                        <img src="https://plazacellars.netlify.app/signature-spacer" width="1" height="16" alt="" style="display:block;">
+                      </td>
+                    </tr>
+
                 </tbody>
             </table>
             <div style="color: rgb(0, 0, 0); font-family: Times; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; margin: 0px auto; max-width: 400px; background-position: initial initial; background-repeat: initial initial;">
@@ -177,7 +184,7 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td style="border-collapse: collapse; width: 400px;">
-                                                                    <img alt="i" src="https://i.imgur.com/5FnMCX8.jpg" width="400" height="1" style="border: 0px; outline: none; display: block; width: 400px;max-width:400px;height:1px;" />
+                                                                    <img alt="i" src="https://plazacellars.netlify.app/signature-spacer" width="400" height="1" style="border: 0px; outline: none; display: block; width: 400px;max-width:400px;height:1px;" />
                                                                 </td>
 
                                                             </tr>

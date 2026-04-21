@@ -171,17 +171,6 @@
                 </tbody>
             </table>
 
-            <!-- Swappable banner — update static/_redirects to change this image or link company-wide -->
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; border-spacing:0;">
-              <tr>
-                <td style="padding: 8px 0 0 0;">
-                  <a href="https://plazacellars.netlify.app/signature-banner-url" style="display:block; text-decoration:none;">
-                    <img src="https://plazacellars.netlify.app/signature-banner" width="780" alt="Plaza Cellars" style="display:block; width:100%; max-width:780px; border:0; outline:none;">
-                  </a>
-                </td>
-              </tr>
-            </table>
-
             <div style="color: rgb(0, 0, 0); font-family: Times; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; margin: 0px auto; max-width: 400px; background-position: initial initial; background-repeat: initial initial;">
                 <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; width: 400px; background-position: initial initial; background-repeat: initial initial;">
                     <tbody>
